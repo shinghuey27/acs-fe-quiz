@@ -1,0 +1,31 @@
+1. C. Caption-side
+
+2. C. It selects the 2nd, 4th, 6th, 8th, etc. (even) <p> tags starting from 2.
+
+3. C. Order: #div1, #div3, #div2, and #div4
+
+4. C. .tabs {
+        background-color: lightgreen;
+        color: white;
+        border: none;
+        padding: 20px;
+        text-align: center;
+        font-size: 16px;
+        }
+        .tabs:hover {
+        background-color: green;
+        }
+
+5. A. <fieldset style="height: 100px; width: 100px">
+        <legend>Coding is Fun</legend>
+     </fieldset>
+
+6. D. Float
+
+7. C. Both A and B. getDerivedStateFromError() && componentDidCatch()
+
+8. A. <NotesContext.Provider value={this.state.notes}> //code </NotesContext.Provider>
+
+9. B. Span
+
+10. D. componentDidUpdate()
