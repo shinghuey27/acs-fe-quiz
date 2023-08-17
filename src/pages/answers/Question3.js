@@ -10,10 +10,10 @@ export default function Question3() {
         //if sum match with target then return index + 1 because index start from 0
         return `[${left + 1}, ${right + 1}]`;
       } else if (sum > target) {
-        //if some is larger than target, move right pointer to left,
+        //if sum is larger than target, move right pointer to left,
         right--;
       } else {
-        //if some is smaller than target, move left pointer to righ,
+        //if sum is smaller than target, move left pointer to righ,
         left++;
       }
     }
