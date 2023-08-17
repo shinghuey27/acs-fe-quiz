@@ -12,3 +12,8 @@ You may also see any lint errors in the console.
 
 # Live demo
 ### https://acs-fe-quiz.vercel.app/
+
+# MCQ file 
+> src > pages > answers > MCQ.txt
+
+![image](https://github.com/shinghuey27/acs-fe-quiz/assets/57435086/e37461f3-cf57-4697-b6a9-4264237add05)
